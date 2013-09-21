@@ -123,12 +123,9 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 ## Small print
 
-Author: Gleb Bahmutov <gleb.bahmutov@gmail.com>
-License: MIT
-Copyright &copy; 2013 Gleb Bahmutov
+Author: Gleb Bahmutov **@bahmutov** and [glebbahmutov.com](http://glebbahmutov.com) License: **MIT**
 
-[@bahmutov](https://twitter.com/bahmutov) and
-[glebbahmutov.com](http://glebbahmutov.com)
+Copyright &copy; 2013 Gleb Bahmutov
 
 [endorse-image]: https://api.coderwall.com/bahmutov/endorsecount.png
 [endorse-url]: https://coderwall.com/bahmutov
