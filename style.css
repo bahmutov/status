@@ -1,9 +1,3 @@
-/*
-produce stand alone HTML page using pandoc
-http://johnmacfarlane.net/pandoc/getting-started.html
-
-pandoc README.md -f markdown -t html5 -s -o index.html -T Status -c normalize.css -c style.css
-*/
 body {
   margin: 10px auto;
   background-color: darkGray;
