@@ -5,6 +5,13 @@ http://johnmacfarlane.net/pandoc/getting-started.html
 pandoc README.md -f markdown -t html5 -s -o index.html -T Status -c normalize.css -c style.css
 */
 body {
-  width: 960px;
+  width: 650px;
   margin: 20px auto;
+  background-color: darkGray;
+}
+
+#dashboard {
+  padding: 10px 10px 10px 20px;
+  background-color: #fcfcfc;
+  border-radius: 5px;
 }
