@@ -1,15 +1,10 @@
-/*
-produce stand alone HTML page using pandoc
-http://johnmacfarlane.net/pandoc/getting-started.html
-
-pandoc README.md -f markdown -t html5 -s -o index.html -T Status -c normalize.css -c style.css
-*/
 body {
-  margin: 10px auto;
+  margin: 0 auto;
   background-color: darkGray;
 }
 
 #dashboard {
+  min-width: 400px;
   max-width: 700px;
   margin: 0 auto;
   padding: 10px 10px 10px 20px;
