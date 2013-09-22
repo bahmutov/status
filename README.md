@@ -120,10 +120,15 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [xplain-deps-image]: https://david-dm.org/bahmutov/xplain.png
 [xplain-deps-url]: https://david-dm.org/bahmutov/xplain
 
+**[code-box](https://bitbucket.org/bahmutov/code-box)**
+
+[![Build][code-box-image]][code-box-image]
+
+[code-box-image]: https://www.codeship.io/projects/05459600-fed1-0130-26c1-6af3696257f1/status
 
 ## Small print
 
-Author: Gleb Bahmutov **@bahmutov** and [glebbahmutov.com](http://glebbahmutov.com) License: **MIT**
+Author: **@bahmutov** [glebbahmutov.com](http://glebbahmutov.com) License: **MIT**
 
 Copyright &copy; 2013 Gleb Bahmutov
 
