@@ -54,7 +54,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [gt-deps-image]: https://david-dm.org/bahmutov/gt.png
 [gt-deps-url]: https://david-dm.org/bahmutov/gt
 
-**[jsc](https://github.com/bahmutov/jsc)**
+**[jsc](https://github.com/bahmutov/js-complexity-viz)**
 
 [![NPM][jsc-icon]][jsc-url]
 [![Build][jsc-ci-image]][jsc-ci-url]
@@ -93,6 +93,18 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [next-update-deps-image]: https://david-dm.org/bahmutov/next-update.png
 [next-update-deps-url]: https://david-dm.org/bahmutov/next-update
 
+**[npm-utils](https://github.com/bahmutov/npm-utils)**
+
+[![NPM][npm-utils-icon]][npm-utils-url]
+[![Build][npm-utils-ci-image]][npm-utils-ci-url]
+[![dependencies][npm-utils-deps-image]][npm-utils-deps-url]
+
+[npm-utils-icon]: https://nodei.co/npm/npm-utils.png?downloads=true
+[npm-utils-url]: https://npmjs.org/package/npm-utils
+[npm-utils-ci-image]: https://secure.travis-ci.org/bahmutov/npm-utils.png?branch=master
+[npm-utils-ci-url]: http://travis-ci.org/#!/bahmutov/npm-utils
+[npm-utils-deps-image]: https://david-dm.org/bahmutov/npm-utils.png
+[npm-utils-deps-url]: https://david-dm.org/bahmutov/npm-utils
 
 **[untested](https://github.com/bahmutov/untested)**
 
