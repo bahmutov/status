@@ -132,6 +132,16 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [xplain-deps-image]: https://david-dm.org/bahmutov/xplain.png
 [xplain-deps-url]: https://david-dm.org/bahmutov/xplain
 
+**[qunit-promises](https://github.com/bahmutov/qunit-promises)**
+
+[![Build status][qunit-promises-ci-image]][qunit-promises-ci-url]
+[![dependencies][qunit-promises-dependencies-image]][qunit-promises-dependencies-url]
+
+[qunit-promises-ci-image]: https://travis-ci.org/bahmutov/qunit-promises.png?branch=master
+[qunit-promises-ci-url]: https://travis-ci.org/bahmutov/qunit-promises
+[qunit-promises-dependencies-image]: https://david-dm.org/bahmutov/qunit-promises.png
+[qunit-promises-dependencies-url]: https://david-dm.org/bahmutov/qunit-promises
+
 **[code-box](https://bitbucket.org/bahmutov/code-box)**
 
 [![Build][code-box-image]][code-box-image]
