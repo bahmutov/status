@@ -27,7 +27,7 @@ $(function () {
   $.get(readme, function success(md) {
     var converted = marked(md);
     $('#dashboard').html(converted);
-  }, function error(msg) {
+  }).fail(function error(msg) {
     $('#dashboard').html('<h2>Could not load ' + readme + '</h2>');
   });
 });
