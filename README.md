@@ -134,9 +134,12 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 **[qunit-promises](https://github.com/bahmutov/qunit-promises)**
 
+[![NPM][qunit-promises-icon]][qunit-promises-url]
 [![Build status][qunit-promises-ci-image]][qunit-promises-ci-url]
 [![dependencies][qunit-promises-dependencies-image]][qunit-promises-dependencies-url]
 
+[qunit-promises-icon]: https://nodei.co/npm/qunit-promises.png?downloads=true
+[qunit-promises-url]: https://npmjs.org/package/qunit-promises
 [qunit-promises-ci-image]: https://travis-ci.org/bahmutov/qunit-promises.png?branch=master
 [qunit-promises-ci-url]: https://travis-ci.org/bahmutov/qunit-promises
 [qunit-promises-dependencies-image]: https://david-dm.org/bahmutov/qunit-promises.png
