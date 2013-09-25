@@ -22,8 +22,9 @@ title="Fork me on GitHub - personal status dashboard"></a>
 <script src="marked.js"></script>
 <script>
 $(function () {
-  console.log('loading README.md');
-  $.get('README.md', function success(md) {
+  var readme = 'https://raw.github.com/bahmutov/status/master/README.md';
+  console.log('loading', readme);
+  $.get(readme, function success(md) {
     var converted = marked(md);
     $('#dashboard').html(converted);
   });
