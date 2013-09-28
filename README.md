@@ -41,6 +41,19 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [grunt-deps-ok-deps-image]: https://david-dm.org/bahmutov/grunt-deps-ok.png
 [grunt-deps-ok-deps-url]: https://david-dm.org/bahmutov/grunt-deps-ok
 
+**[grunt-npm2bower-sync](https://github.com/bahmutov/grunt-npm2bower-sync)**
+
+[![NPM][grunt-npm2bower-sync-icon]][grunt-npm2bower-sync-url]
+[![Build][grunt-npm2bower-sync-ci-image]][grunt-npm2bower-sync-ci-url]
+[![dependencies][grunt-npm2bower-sync-deps-image]][grunt-npm2bower-sync-deps-url]
+
+[grunt-npm2bower-sync-icon]: https://nodei.co/npm/grunt-npm2bower-sync.png?downloads=true
+[grunt-npm2bower-sync-url]: https://npmjs.org/package/grunt-npm2bower-sync
+[grunt-npm2bower-sync-ci-image]: https://secure.travis-ci.org/bahmutov/grunt-npm2bower-sync.png?branch=master
+[grunt-npm2bower-sync-ci-url]: http://travis-ci.org/#!/bahmutov/grunt-npm2bower-sync
+[grunt-npm2bower-sync-deps-image]: https://david-dm.org/bahmutov/grunt-npm2bower-sync.png
+[grunt-npm2bower-sync-deps-url]: https://david-dm.org/bahmutov/grunt-npm2bower-sync
+
 **[gt](https://github.com/bahmutov/gt)**
 
 [![NPM][gt-icon]][gt-url]
