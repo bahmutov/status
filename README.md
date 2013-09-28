@@ -2,6 +2,19 @@
 
 Status badges for many of my projects: builds, dependencies, npm stats
 
+**[changed](https://github.com/bahmutov/changed)**
+
+[![NPM][changed-icon]][changed-url]
+[![Build][changed-ci-image]][changed-ci-url]
+[![dependencies][changed-deps-image]][changed-deps-url]
+
+[changed-icon]: https://nodei.co/npm/changed.png?downloads=true
+[changed-url]: https://npmjs.org/package/changed
+[changed-ci-image]: https://secure.travis-ci.org/bahmutov/changed.png?branch=master
+[changed-ci-url]: http://travis-ci.org/#!/bahmutov/changed
+[changed-deps-image]: https://david-dm.org/bahmutov/changed.png
+[changed-deps-url]: https://david-dm.org/bahmutov/changed
+
 **[csv-load-sync](https://github.com/bahmutov/csv-load-sync)**
 
 [![NPM][csv-load-sync-icon]][csv-load-sync-url]
