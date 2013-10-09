@@ -67,6 +67,20 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [grunt-npm2bower-sync-deps-image]: https://david-dm.org/bahmutov/grunt-npm2bower-sync.png
 [grunt-npm2bower-sync-deps-url]: https://david-dm.org/bahmutov/grunt-npm2bower-sync
 
+**[grunt-nice-package](https://github.com/bahmutov/grunt-nice-package)**
+
+[![NPM][grunt-nice-package-icon]][grunt-nice-package-url]
+[![Build][grunt-nice-package-ci-image]][grunt-nice-package-ci-url]
+[![dependencies][grunt-nice-package-deps-image]][grunt-nice-package-deps-url]
+
+[grunt-nice-package-icon]: https://nodei.co/npm/grunt-nice-package.png?downloads=true
+[grunt-nice-package-url]: https://npmjs.org/package/grunt-nice-package
+[grunt-nice-package-ci-image]: https://secure.travis-ci.org/bahmutov/grunt-nice-package.png?branch=master
+[grunt-nice-package-ci-url]: http://travis-ci.org/#!/bahmutov/grunt-nice-package
+[grunt-nice-package-deps-image]: https://david-dm.org/bahmutov/grunt-nice-package.png
+[grunt-nice-package-deps-url]: https://david-dm.org/bahmutov/grunt-nice-package
+
+
 **[gt](https://github.com/bahmutov/gt)**
 
 [![NPM][gt-icon]][gt-url]
