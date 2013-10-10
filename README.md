@@ -133,6 +133,19 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [lasso-deps-image]: https://david-dm.org/bahmutov/lasso.png
 [lasso-deps-url]: https://david-dm.org/bahmutov/lasso
 
+**[slides-now-node](https://github.com/bahmutov/slides-now-node)**
+
+[![NPM][slides-now-node-icon]][slides-now-node-url]
+[![Build][slides-now-node-ci-image]][slides-now-node-ci-url]
+[![dependencies][slides-now-node-deps-image]][slides-now-node-deps-url]
+
+[slides-now-node-icon]: https://nodei.co/npm/slides-now-node.png?downloads=true
+[slides-now-node-url]: https://npmjs.org/package/slides-now-node
+[slides-now-node-ci-image]: https://secure.travis-ci.org/bahmutov/slides-now-node.png?branch=master
+[slides-now-node-ci-url]: http://travis-ci.org/#!/bahmutov/slides-now-node
+[slides-now-node-deps-image]: https://david-dm.org/bahmutov/slides-now-node.png
+[slides-now-node-deps-url]: https://david-dm.org/bahmutov/slides-now-node
+
 **[next-update](https://github.com/bahmutov/next-update)**
 
 [![NPM][next-update-icon]][next-update-url]
