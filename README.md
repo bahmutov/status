@@ -94,6 +94,19 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [gt-deps-image]: https://david-dm.org/bahmutov/gt.png
 [gt-deps-url]: https://david-dm.org/bahmutov/gt
 
+**[ggit](https://github.com/bahmutov/ggit)**
+
+[![NPM][ggit-icon]][ggit-url]
+[![Build][ggit-ci-image]][ggit-ci-url]
+[![dependencies][ggit-deps-image]][ggit-deps-url]
+
+[ggit-icon]: https://nodei.co/npm/ggit.png?downloads=true
+[ggit-url]: https://npmjs.org/package/ggit
+[ggit-ci-image]: https://secure.travis-ci.org/bahmutov/ggit.png?branch=master
+[ggit-ci-url]: http://travis-ci.org/#!/bahmutov/ggit
+[ggit-deps-image]: https://david-dm.org/bahmutov/ggit.png
+[ggit-deps-url]: https://david-dm.org/bahmutov/ggit
+
 **[jsc](https://github.com/bahmutov/js-complexity-viz)**
 
 [![NPM][jsc-icon]][jsc-url]
