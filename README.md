@@ -7,6 +7,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [![NPM][changed-icon]][changed-url]
 [![Build][changed-ci-image]][changed-ci-url]
 [![dependencies][changed-deps-image]][changed-deps-url]
+[![devDependencies](https://david-dm.org/bahmutov/changed/dev-status.png)](https://david-dm.org/bahmutov/changed#info=devDependencies)
 
 [changed-icon]: https://nodei.co/npm/changed.png?downloads=true
 [changed-url]: https://npmjs.org/package/changed
@@ -20,6 +21,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [![NPM][csv-load-sync-icon]][csv-load-sync-url]
 [![Build][csv-load-sync-ci-image]][csv-load-sync-ci-url]
 [![dependencies][csv-load-sync-deps-image]][csv-load-sync-deps-url]
+[![devDependencies](https://david-dm.org/bahmutov/csv-load-sync/dev-status.png)](https://david-dm.org/bahmutov/csv-load-sync#info=devDependencies)
 
 [csv-load-sync-icon]: https://nodei.co/npm/csv-load-sync.png?downloads=true
 [csv-load-sync-url]: https://npmjs.org/package/csv-load-sync
@@ -33,6 +35,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [![NPM][deps-ok-icon]][deps-ok-url]
 [![Build][deps-ok-ci-image]][deps-ok-ci-url]
 [![dependencies][deps-ok-deps-image]][deps-ok-deps-url]
+[![devDependencies](https://david-dm.org/bahmutov/deps-ok/dev-status.png)](https://david-dm.org/bahmutov/deps-ok#info=devDependencies)
 
 [deps-ok-icon]: https://nodei.co/npm/deps-ok.png?downloads=true
 [deps-ok-url]: https://npmjs.org/package/deps-ok
@@ -46,6 +49,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [![NPM][grunt-deps-ok-icon]][grunt-deps-ok-url]
 [![Build][grunt-deps-ok-ci-image]][grunt-deps-ok-ci-url]
 [![dependencies][grunt-deps-ok-deps-image]][grunt-deps-ok-deps-url]
+[![devDependencies](https://david-dm.org/bahmutov/grunt-deps-ok/dev-status.png)](https://david-dm.org/bahmutov/grunt-deps-ok#info=devDependencies)
 
 [grunt-deps-ok-icon]: https://nodei.co/npm/grunt-deps-ok.png?downloads=true
 [grunt-deps-ok-url]: https://npmjs.org/package/grunt-deps-ok
@@ -59,6 +63,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [![NPM][grunt-npm2bower-sync-icon]][grunt-npm2bower-sync-url]
 [![Build][grunt-npm2bower-sync-ci-image]][grunt-npm2bower-sync-ci-url]
 [![dependencies][grunt-npm2bower-sync-deps-image]][grunt-npm2bower-sync-deps-url]
+[![devDependencies](https://david-dm.org/bahmutov/grunt-npm2bower-sync/dev-status.png)](https://david-dm.org/bahmutov/grunt-npm2bower-sync#info=devDependencies)
 
 [grunt-npm2bower-sync-icon]: https://nodei.co/npm/grunt-npm2bower-sync.png?downloads=true
 [grunt-npm2bower-sync-url]: https://npmjs.org/package/grunt-npm2bower-sync
