@@ -5,6 +5,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[changed](https://github.com/bahmutov/changed)**
 
 [![NPM][changed-icon]][changed-url]
+
 [![Build][changed-ci-image]][changed-ci-url]
 [![dependencies][changed-deps-image]][changed-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/changed/dev-status.png)](https://david-dm.org/bahmutov/changed#info=devDependencies)
@@ -19,6 +20,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[csv-load-sync](https://github.com/bahmutov/csv-load-sync)**
 
 [![NPM][csv-load-sync-icon]][csv-load-sync-url]
+
 [![Build][csv-load-sync-ci-image]][csv-load-sync-ci-url]
 [![dependencies][csv-load-sync-deps-image]][csv-load-sync-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/csv-load-sync/dev-status.png)](https://david-dm.org/bahmutov/csv-load-sync#info=devDependencies)
@@ -33,6 +35,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[deps-ok](https://github.com/bahmutov/deps-ok)**
 
 [![NPM][deps-ok-icon]][deps-ok-url]
+
 [![Build][deps-ok-ci-image]][deps-ok-ci-url]
 [![dependencies][deps-ok-deps-image]][deps-ok-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/deps-ok/dev-status.png)](https://david-dm.org/bahmutov/deps-ok#info=devDependencies)
@@ -47,6 +50,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[grunt-deps-ok](https://github.com/bahmutov/grunt-deps-ok)**
 
 [![NPM][grunt-deps-ok-icon]][grunt-deps-ok-url]
+
 [![Build][grunt-deps-ok-ci-image]][grunt-deps-ok-ci-url]
 [![dependencies][grunt-deps-ok-deps-image]][grunt-deps-ok-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/grunt-deps-ok/dev-status.png)](https://david-dm.org/bahmutov/grunt-deps-ok#info=devDependencies)
@@ -61,6 +65,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[grunt-npm2bower-sync](https://github.com/bahmutov/grunt-npm2bower-sync)**
 
 [![NPM][grunt-npm2bower-sync-icon]][grunt-npm2bower-sync-url]
+
 [![Build][grunt-npm2bower-sync-ci-image]][grunt-npm2bower-sync-ci-url]
 [![dependencies][grunt-npm2bower-sync-deps-image]][grunt-npm2bower-sync-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/grunt-npm2bower-sync/dev-status.png)](https://david-dm.org/bahmutov/grunt-npm2bower-sync#info=devDependencies)
@@ -75,6 +80,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[grunt-nice-package](https://github.com/bahmutov/grunt-nice-package)**
 
 [![NPM][grunt-nice-package-icon]][grunt-nice-package-url]
+
 [![Build][grunt-nice-package-ci-image]][grunt-nice-package-ci-url]
 [![dependencies][grunt-nice-package-deps-image]][grunt-nice-package-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/grunt-nice-package/dev-status.png)](https://david-dm.org/bahmutov/grunt-nice-package#info=devDependencies)
@@ -90,6 +96,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[gt](https://github.com/bahmutov/gt)**
 
 [![NPM][gt-icon]][gt-url]
+
 [![Build][gt-ci-image]][gt-ci-url]
 [![dependencies][gt-deps-image]][gt-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/gt/dev-status.png)](https://david-dm.org/bahmutov/gt#info=devDependencies)
@@ -104,6 +111,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[ggit](https://github.com/bahmutov/ggit)**
 
 [![NPM][ggit-icon]][ggit-url]
+
 [![Build][ggit-ci-image]][ggit-ci-url]
 [![dependencies][ggit-deps-image]][ggit-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/ggit/dev-status.png)](https://david-dm.org/bahmutov/ggit#info=devDependencies)
@@ -118,6 +126,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[jsc](https://github.com/bahmutov/js-complexity-viz)**
 
 [![NPM][jsc-icon]][jsc-url]
+
 [![Build][jsc-ci-image]][jsc-ci-url]
 [![dependencies][jsc-deps-image]][jsc-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/js-complexity-viz/dev-status.png)](https://david-dm.org/bahmutov/js-complexity-viz#info=devDependencies)
@@ -132,6 +141,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[lasso](https://github.com/bahmutov/lasso)**
 
 [![NPM][lasso-icon]][lasso-url]
+
 [![Build][lasso-ci-image]][lasso-ci-url]
 [![dependencies][lasso-deps-image]][lasso-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/lasso/dev-status.png)](https://david-dm.org/bahmutov/lasso#info=devDependencies)
@@ -146,6 +156,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[slides-now-node](https://github.com/bahmutov/slides-now-node)**
 
 [![NPM][slides-now-node-icon]][slides-now-node-url]
+
 [![Build][slides-now-node-ci-image]][slides-now-node-ci-url]
 [![dependencies][slides-now-node-deps-image]][slides-now-node-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/slides-now-node/dev-status.png)](https://david-dm.org/bahmutov/slides-now-node#info=devDependencies)
@@ -160,6 +171,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[next-update](https://github.com/bahmutov/next-update)**
 
 [![NPM][next-update-icon]][next-update-url]
+
 [![Build][next-update-ci-image]][next-update-ci-url]
 [![dependencies][next-update-deps-image]][next-update-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/next-update/dev-status.png)](https://david-dm.org/bahmutov/next-update#info=devDependencies)
@@ -174,6 +186,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[npm-utils](https://github.com/bahmutov/npm-utils)**
 
 [![NPM][npm-utils-icon]][npm-utils-url]
+
 [![Build][npm-utils-ci-image]][npm-utils-ci-url]
 [![dependencies][npm-utils-deps-image]][npm-utils-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/npm-utils/dev-status.png)](https://david-dm.org/bahmutov/npm-utils#info=devDependencies)
@@ -188,6 +201,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[untested](https://github.com/bahmutov/untested)**
 
 [![NPM][untested-icon]][untested-url]
+
 [![Build][untested-ci-image]][untested-ci-url]
 [![dependencies][untested-deps-image]][untested-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/untested/dev-status.png)](https://david-dm.org/bahmutov/untested#info=devDependencies)
@@ -202,6 +216,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[xplain](https://github.com/bahmutov/xplain)**
 
 [![NPM][xplain-icon]][xplain-url]
+
 [![Build][xplain-ci-image]][xplain-ci-url]
 [![dependencies][xplain-deps-image]][xplain-deps-url]
 [![devDependencies](https://david-dm.org/bahmutov/xplain/dev-status.png)](https://david-dm.org/bahmutov/xplain#info=devDependencies)
@@ -216,6 +231,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 **[qunit-promises](https://github.com/bahmutov/qunit-promises)**
 
 [![NPM][qunit-promises-icon]][qunit-promises-url]
+
 [![Build status][qunit-promises-ci-image]][qunit-promises-ci-url]
 [![dependencies][qunit-promises-dependencies-image]][qunit-promises-dependencies-url]
 [![devDependencies](https://david-dm.org/bahmutov/qunit-promises/dev-status.png)](https://david-dm.org/bahmutov/qunit-promises#info=devDependencies)
