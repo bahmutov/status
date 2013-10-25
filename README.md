@@ -123,6 +123,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [ggit-deps-image]: https://david-dm.org/bahmutov/ggit.png
 [ggit-deps-url]: https://david-dm.org/bahmutov/ggit
 
+**[jshint-solid](https://github.com/bahmutov/jshint-solid)**
+
+[![NPM][jshint-solid-icon]][jshint-solid-url]
+
+[![Build status][jshint-solid-ci-image]][jshint-solid-ci-url]
+[![dependencies][jshint-solid-dependencies-image]][jshint-solid-dependencies-url]
+[![devdependencies][jshint-solid-devdependencies-image]][jshint-solid-devdependencies-url]
+
+[jshint-solid-icon]: https://nodei.co/npm/jshint-solid.png?downloads=true
+[jshint-solid-url]: https://npmjs.org/package/jshint-solid
+[jshint-solid-ci-image]: https://travis-ci.org/bahmutov/jshint-solid.png?branch=master
+[jshint-solid-ci-url]: https://travis-ci.org/bahmutov/jshint-solid
+[jshint-solid-dependencies-image]: https://david-dm.org/bahmutov/jshint-solid.png
+[jshint-solid-dependencies-url]: https://david-dm.org/bahmutov/jshint-solid
+[jshint-solid-devdependencies-image]: https://david-dm.org/bahmutov/jshint-solid/dev-status.png
+[jshint-solid-devdependencies-url]: https://david-dm.org/bahmutov/jshint-solid#info=devDependencies
+
 **[jsc](https://github.com/bahmutov/js-complexity-viz)**
 
 [![NPM][jsc-icon]][jsc-url]
