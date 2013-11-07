@@ -217,8 +217,8 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 [lasso-icon]: https://nodei.co/npm/lasso-node.png?downloads=true
 [lasso-url]: https://npmjs.org/package/lasso-node
-[lasso-ci-image]: https://www.codeship.io/projects/7a3ccd60-007e-0131-284f-0a85da757f94/status
-[lasso-ci-url]: https://www.codeship.io/projects/7a3ccd60-007e-0131-284f-0a85da757f94/status
+[lasso-ci-image]: https://travis-ci.org/bahmutov/lasso.png?branch=master
+[lasso-ci-url]: https://travis-ci.org/bahmutov/lasso
 [lasso-deps-image]: https://david-dm.org/bahmutov/lasso.png
 [lasso-deps-url]: https://david-dm.org/bahmutov/lasso
 
