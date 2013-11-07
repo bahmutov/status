@@ -8,7 +8,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 [![Build][changed-ci-image]][changed-ci-url]
 [![dependencies][changed-deps-image]][changed-deps-url]
-[![devDependencies](https://david-dm.org/bahmutov/changed/dev-status.png)](https://david-dm.org/bahmutov/changed#info=devDependencies)
+[![devdependencies][changed-devdependencies-image]][changed-devdependencies-url]
 
 [changed-icon]: https://nodei.co/npm/changed.png?downloads=true
 [changed-url]: https://npmjs.org/package/changed
@@ -16,6 +16,8 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [changed-ci-url]: http://travis-ci.org/#!/bahmutov/changed
 [changed-deps-image]: https://david-dm.org/bahmutov/changed.png
 [changed-deps-url]: https://david-dm.org/bahmutov/changed
+[changed-devdependencies-image]: https://david-dm.org/bahmutov/changed/dev-status.png
+[changed-devdependencies-url]: https://david-dm.org/bahmutov/changed#info=devDependencies
 
 **[clean-console](https://github.com/bahmutov/clean-console)**
 
@@ -40,7 +42,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 [![Build][csv-load-sync-ci-image]][csv-load-sync-ci-url]
 [![dependencies][csv-load-sync-deps-image]][csv-load-sync-deps-url]
-[![devDependencies](https://david-dm.org/bahmutov/csv-load-sync/dev-status.png)](https://david-dm.org/bahmutov/csv-load-sync#info=devDependencies)
+[![devdependencies][csv-load-sync-devdependencies-image]][csv-load-sync-devdependencies-url]
 
 [csv-load-sync-icon]: https://nodei.co/npm/csv-load-sync.png?downloads=true
 [csv-load-sync-url]: https://npmjs.org/package/csv-load-sync
@@ -48,6 +50,8 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [csv-load-sync-ci-url]: http://travis-ci.org/#!/bahmutov/csv-load-sync
 [csv-load-sync-deps-image]: https://david-dm.org/bahmutov/csv-load-sync.png
 [csv-load-sync-deps-url]: https://david-dm.org/bahmutov/csv-load-sync
+[csv-load-sync-devdependencies-image]: https://david-dm.org/bahmutov/csv-load-sync/dev-status.png
+[csv-load-sync-devdependencies-url]: https://david-dm.org/bahmutov/csv-load-sync#info=devDependencies
 
 **[deps-ok](https://github.com/bahmutov/deps-ok)**
 
@@ -70,7 +74,7 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 [![Build][grunt-deps-ok-ci-image]][grunt-deps-ok-ci-url]
 [![dependencies][grunt-deps-ok-deps-image]][grunt-deps-ok-deps-url]
-[![devDependencies](https://david-dm.org/bahmutov/grunt-deps-ok/dev-status.png)](https://david-dm.org/bahmutov/grunt-deps-ok#info=devDependencies)
+[![devdependencies][grunt-deps-ok-devdependencies-image]][grunt-deps-ok-devdependencies-url]
 
 [grunt-deps-ok-icon]: https://nodei.co/npm/grunt-deps-ok.png?downloads=true
 [grunt-deps-ok-url]: https://npmjs.org/package/grunt-deps-ok
@@ -78,6 +82,25 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [grunt-deps-ok-ci-url]: http://travis-ci.org/#!/bahmutov/grunt-deps-ok
 [grunt-deps-ok-deps-image]: https://david-dm.org/bahmutov/grunt-deps-ok.png
 [grunt-deps-ok-deps-url]: https://david-dm.org/bahmutov/grunt-deps-ok
+[grunt-deps-ok-devdependencies-image]: https://david-dm.org/bahmutov/grunt-deps-ok/dev-status.png
+[grunt-deps-ok-devdependencies-url]: https://david-dm.org/bahmutov/grunt-deps-ok#info=devDependencies
+
+**[grunt-clean-console](https://github.com/bahmutov/grunt-clean-console)**
+
+[![NPM][grunt-clean-console-icon]][grunt-clean-console-url]
+
+[![Build][grunt-clean-console-ci-image]][grunt-clean-console-ci-url]
+[![dependencies][grunt-clean-console-deps-image]][grunt-clean-console-deps-url]
+[![devdependencies][grunt-clean-console-devdependencies-image]][grunt-clean-console-devdependencies-url]
+
+[grunt-clean-console-icon]: https://nodei.co/npm/grunt-clean-console.png?downloads=true
+[grunt-clean-console-url]: https://npmjs.org/package/grunt-clean-console
+[grunt-clean-console-ci-image]: https://secure.travis-ci.org/bahmutov/grunt-clean-console.png?branch=master
+[grunt-clean-console-ci-url]: http://travis-ci.org/#!/bahmutov/grunt-clean-console
+[grunt-clean-console-deps-image]: https://david-dm.org/bahmutov/grunt-clean-console.png
+[grunt-clean-console-deps-url]: https://david-dm.org/bahmutov/grunt-clean-console
+[grunt-clean-console-devdependencies-image]: https://david-dm.org/bahmutov/grunt-clean-console/dev-status.png
+[grunt-clean-console-devdependencies-url]: https://david-dm.org/bahmutov/grunt-clean-console#info=devDependencies
 
 **[grunt-npm2bower-sync](https://github.com/bahmutov/grunt-npm2bower-sync)**
 
