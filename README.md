@@ -312,6 +312,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [qunit-promises-dependencies-image]: https://david-dm.org/bahmutov/qunit-promises.png
 [qunit-promises-dependencies-url]: https://david-dm.org/bahmutov/qunit-promises
 
+**[qunit-once](https://github.com/bahmutov/qunit-once)**
+
+[![NPM][qunit-once-icon]][qunit-once-url]
+
+[![Build status][qunit-once-ci-image]][qunit-once-ci-url]
+[![dependencies][qunit-once-dependencies-image]][qunit-once-dependencies-url]
+[![devdependencies][qunit-once-devdependencies-image]][qunit-once-devdependencies-url]
+
+[qunit-once-icon]: https://nodei.co/npm/qunit-once.png?downloads=true
+[qunit-once-url]: https://npmjs.org/package/qunit-once
+[qunit-once-ci-image]: https://travis-ci.org/bahmutov/qunit-once.png?branch=master
+[qunit-once-ci-url]: https://travis-ci.org/bahmutov/qunit-once
+[qunit-once-dependencies-image]: https://david-dm.org/bahmutov/qunit-once.png
+[qunit-once-dependencies-url]: https://david-dm.org/bahmutov/qunit-once
+[qunit-once-devdependencies-image]: https://david-dm.org/bahmutov/qunit-once/dev-status.png
+[qunit-once-devdependencies-url]: https://david-dm.org/bahmutov/qunit-once#info=devDependencies
+
 **[code-box](https://bitbucket.org/bahmutov/code-box)**
 
 [![Build][code-box-image]][code-box-image]
