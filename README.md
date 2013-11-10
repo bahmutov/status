@@ -132,6 +132,22 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [grunt-nice-package-deps-image]: https://david-dm.org/bahmutov/grunt-nice-package.png
 [grunt-nice-package-deps-url]: https://david-dm.org/bahmutov/grunt-nice-package
 
+**[grunt-jshint-solid](https://github.com/bahmutov/grunt-jshint-solid)**
+
+[![NPM][grunt-jshint-solid-icon]][grunt-jshint-solid-url]
+
+[![Build][grunt-jshint-solid-ci-image]][grunt-jshint-solid-ci-url]
+[![dependencies][grunt-jshint-solid-deps-image]][grunt-jshint-solid-deps-url]
+[![devdependencies][grunt-jshint-solid-devdependencies-image]][grunt-jshint-solid-devdependencies-url]
+
+[grunt-jshint-solid-icon]: https://nodei.co/npm/grunt-jshint-solid.png?downloads=true
+[grunt-jshint-solid-url]: https://npmjs.org/package/grunt-jshint-solid
+[grunt-jshint-solid-ci-image]: https://secure.travis-ci.org/bahmutov/grunt-jshint-solid.png?branch=master
+[grunt-jshint-solid-ci-url]: http://travis-ci.org/#!/bahmutov/grunt-jshint-solid
+[grunt-jshint-solid-deps-image]: https://david-dm.org/bahmutov/grunt-jshint-solid.png
+[grunt-jshint-solid-deps-url]: https://david-dm.org/bahmutov/grunt-jshint-solid
+[grunt-jshint-solid-devdependencies-image]: https://david-dm.org/bahmutov/grunt-jshint-solid/dev-status.png
+[grunt-jshint-solid-devdependencies-url]: https://david-dm.org/bahmutov/grunt-jshint-solid#info=devDependencies
 
 **[gt](https://github.com/bahmutov/gt)**
 
