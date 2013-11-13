@@ -228,6 +228,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [pre-git-devdependencies-image]: https://david-dm.org/bahmutov/pre-git/dev-status.png
 [pre-git-devdependencies-url]: https://david-dm.org/bahmutov/pre-git#info=devDependencies
 
+**[proud](https://github.com/bahmutov/proud)**
+
+[![NPM][proud-icon]][proud-url]
+
+[![Build status][proud-ci-image]][proud-ci-url]
+[![dependencies][proud-dependencies-image]][proud-dependencies-url]
+[![devdependencies][proud-devdependencies-image]][proud-devdependencies-url]
+
+[proud-icon]: https://nodei.co/npm/proud.png?downloads=true
+[proud-url]: https://npmjs.org/package/proud
+[proud-ci-image]: https://travis-ci.org/bahmutov/proud.png?branch=master
+[proud-ci-url]: https://travis-ci.org/bahmutov/proud
+[proud-dependencies-image]: https://david-dm.org/bahmutov/proud.png
+[proud-dependencies-url]: https://david-dm.org/bahmutov/proud
+[proud-devdependencies-image]: https://david-dm.org/bahmutov/proud/dev-status.png
+[proud-devdependencies-url]: https://david-dm.org/bahmutov/proud#info=devDependencies
+
 **[time-promise](https://github.com/bahmutov/time-promise)**
 
 [![NPM][time-promise-icon]][time-promise-url]
