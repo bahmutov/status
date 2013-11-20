@@ -2,6 +2,11 @@
 
 Status badges for many of my projects: builds, dependencies, npm stats
 
+[![NPM downloads total last month][bahmutov-npm-downloads-icon]][bahmutov-npm-downloads-url]
+
+[bahmutov-npm-downloads-icon]: http://proud.herokuapp.com/bahmutov/png
+[bahmutov-npm-downloads-url]: http://proud.herokuapp.com/bahmutov/json
+
 **[changed](https://github.com/bahmutov/changed)**
 
 [![NPM][changed-icon]][changed-url]
@@ -244,6 +249,40 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [proud-dependencies-url]: https://david-dm.org/bahmutov/proud
 [proud-devdependencies-image]: https://david-dm.org/bahmutov/proud/dev-status.png
 [proud-devdependencies-url]: https://david-dm.org/bahmutov/proud#info=devDependencies
+
+**[proud-badge](https://github.com/bahmutov/proud-badge)**
+
+[![NPM][proud-badge-icon]][proud-badge-url]
+
+[![Build status][proud-badge-ci-image]][proud-badge-ci-url]
+[![dependencies][proud-badge-dependencies-image]][proud-badge-dependencies-url]
+[![devdependencies][proud-badge-devdependencies-image]][proud-badge-devdependencies-url]
+
+[proud-badge-icon]: https://nodei.co/npm/proud-badge.png?downloads=true
+[proud-badge-url]: https://npmjs.org/package/proud-badge
+[proud-badge-ci-image]: https://travis-ci.org/bahmutov/proud-badge.png?branch=master
+[proud-badge-ci-url]: https://travis-ci.org/bahmutov/proud-badge
+[proud-badge-dependencies-image]: https://david-dm.org/bahmutov/proud-badge.png
+[proud-badge-dependencies-url]: https://david-dm.org/bahmutov/proud-badge
+[proud-badge-devdependencies-image]: https://david-dm.org/bahmutov/proud-badge/dev-status.png
+[proud-badge-devdependencies-url]: https://david-dm.org/bahmutov/proud-badge#info=devDependencies
+
+**[proud-connect](https://github.com/bahmutov/proud-connect)**
+
+[![NPM][proud-connect-icon]][proud-connect-url]
+
+[![Build status][proud-connect-ci-image]][proud-connect-ci-url]
+[![dependencies][proud-connect-dependencies-image]][proud-connect-dependencies-url]
+[![devdependencies][proud-connect-devdependencies-image]][proud-connect-devdependencies-url]
+
+[proud-connect-icon]: https://nodei.co/npm/proud-connect.png?downloads=true
+[proud-connect-url]: https://npmjs.org/package/proud-connect
+[proud-connect-ci-image]: https://travis-ci.org/bahmutov/proud-connect.png?branch=master
+[proud-connect-ci-url]: https://travis-ci.org/bahmutov/proud-connect
+[proud-connect-dependencies-image]: https://david-dm.org/bahmutov/proud-connect.png
+[proud-connect-dependencies-url]: https://david-dm.org/bahmutov/proud-connect
+[proud-connect-devdependencies-image]: https://david-dm.org/bahmutov/proud-connect/dev-status.png
+[proud-connect-devdependencies-url]: https://david-dm.org/bahmutov/proud-connect#info=devDependencies
 
 **[time-promise](https://github.com/bahmutov/time-promise)**
 
