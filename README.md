@@ -7,6 +7,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [bahmutov-npm-downloads-icon]: http://proud.herokuapp.com/bahmutov/png
 [bahmutov-npm-downloads-url]: http://proud.herokuapp.com/bahmutov/json
 
+**[aged](https://github.com/bahmutov/aged)**
+
+[![NPM][aged-icon] ][aged-url]
+
+[![Build status][aged-ci-image] ][aged-ci-url]
+[![dependencies][aged-dependencies-image] ][aged-dependencies-url]
+[![devdependencies][aged-devdependencies-image] ][aged-devdependencies-url]
+
+[aged-icon]: https://nodei.co/npm/aged.png?downloads=true
+[aged-url]: https://npmjs.org/package/aged
+[aged-ci-image]: https://travis-ci.org/bahmutov/aged.png?branch=master
+[aged-ci-url]: https://travis-ci.org/bahmutov/aged
+[aged-dependencies-image]: https://david-dm.org/bahmutov/aged.png
+[aged-dependencies-url]: https://david-dm.org/bahmutov/aged
+[aged-devdependencies-image]: https://david-dm.org/bahmutov/aged/dev-status.png
+[aged-devdependencies-url]: https://david-dm.org/bahmutov/aged#info=devDependencies
+
 **[changed](https://github.com/bahmutov/changed)**
 
 [![NPM][changed-icon]][changed-url]
@@ -65,8 +82,6 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [![Build status][color-pusher-ci-image] ][color-pusher-ci-url]
 [![dependencies][color-pusher-dependencies-image] ][color-pusher-dependencies-url]
 [![devdependencies][color-pusher-devdependencies-image] ][color-pusher-devdependencies-url]
-
-[![endorse][endorse-image] ][endorse-url]
 
 [color-pusher-icon]: https://nodei.co/npm/color-pusher.png?downloads=true
 [color-pusher-url]: https://npmjs.org/package/color-pusher
