@@ -24,6 +24,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [aged-devdependencies-image]: https://david-dm.org/bahmutov/aged/dev-status.png
 [aged-devdependencies-url]: https://david-dm.org/bahmutov/aged#info=devDependencies
 
+**[boggle](https://github.com/bahmutov/boggle)**
+
+[![NPM][boggle-icon] ][boggle-url]
+
+[![Build status][boggle-ci-image] ][boggle-ci-url]
+[![dependencies][boggle-dependencies-image] ][boggle-dependencies-url]
+[![devdependencies][boggle-devdependencies-image] ][boggle-devdependencies-url]
+
+[boggle-icon]: https://nodei.co/npm/boggle.png?downloads=true
+[boggle-url]: https://npmjs.org/package/boggle
+[boggle-ci-image]: https://travis-ci.org/bahmutov/boggle.png?branch=master
+[boggle-ci-url]: https://travis-ci.org/bahmutov/boggle
+[boggle-dependencies-image]: https://david-dm.org/bahmutov/boggle.png
+[boggle-dependencies-url]: https://david-dm.org/bahmutov/boggle
+[boggle-devdependencies-image]: https://david-dm.org/bahmutov/boggle/dev-status.png
+[boggle-devdependencies-url]: https://david-dm.org/bahmutov/boggle#info=devDependencies
+
 **[changed](https://github.com/bahmutov/changed)**
 
 [![NPM][changed-icon]][changed-url]
