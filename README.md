@@ -124,6 +124,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [deps-ok-deps-image]: https://david-dm.org/bahmutov/deps-ok.png
 [deps-ok-deps-url]: https://david-dm.org/bahmutov/deps-ok
 
+**[dotdot](https://github.com/bahmutov/dotdot)**
+
+[![NPM dotdot][dotdot-icon]][dotdot-url]
+
+[![Build status][dotdot-ci-image]][dotdot-ci-url]
+[![dependencies][dotdot-dependencies-image]][dotdot-dependencies-url]
+[![devdependencies][dotdot-devdependencies-image]][dotdot-devdependencies-url]
+
+[dotdot-icon]: https://nodei.co/npm/dotdot.png?downloads=true
+[dotdot-url]: https://npmjs.org/package/dotdot
+[dotdot-ci-image]: https://travis-ci.org/bahmutov/dotdot.png?branch=master
+[dotdot-ci-url]: https://travis-ci.org/bahmutov/dotdot
+[dotdot-dependencies-image]: https://david-dm.org/bahmutov/dotdot.png
+[dotdot-dependencies-url]: https://david-dm.org/bahmutov/dotdot
+[dotdot-devdependencies-image]: https://david-dm.org/bahmutov/dotdot/dev-status.png
+[dotdot-devdependencies-url]: https://david-dm.org/bahmutov/dotdot#info=devDependencies
+
 **[grunt-deps-ok](https://github.com/bahmutov/grunt-deps-ok)**
 
 [![NPM][grunt-deps-ok-icon]][grunt-deps-ok-url]
