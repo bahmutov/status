@@ -430,6 +430,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [npm-utils-deps-image]: https://david-dm.org/bahmutov/npm-utils.png
 [npm-utils-deps-url]: https://david-dm.org/bahmutov/npm-utils
 
+**[node-hook](https://github.com/bahmutov/node-hook)**
+
+[![NPM][node-hook-icon]][node-hook-url]
+
+[![Build status][node-hook-ci-image]][node-hook-ci-url]
+[![dependencies][node-hook-dependencies-image]][node-hook-dependencies-url]
+[![devdependencies][node-hook-devdependencies-image]][node-hook-devdependencies-url]
+
+[node-hook-icon]: https://nodei.co/npm/node-hook.png?downloads=true
+[node-hook-url]: https://npmjs.org/package/node-hook
+[node-hook-ci-image]: https://travis-ci.org/bahmutov/node-hook.png?branch=master
+[node-hook-ci-url]: https://travis-ci.org/bahmutov/node-hook
+[node-hook-dependencies-image]: https://david-dm.org/bahmutov/node-hook.png
+[node-hook-dependencies-url]: https://david-dm.org/bahmutov/node-hook
+[node-hook-devdependencies-image]: https://david-dm.org/bahmutov/node-hook/dev-status.png
+[node-hook-devdependencies-url]: https://david-dm.org/bahmutov/node-hook#info=devDependencies
+
 **[untested](https://github.com/bahmutov/untested)**
 
 [![NPM][untested-icon]][untested-url]
