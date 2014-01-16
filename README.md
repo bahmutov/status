@@ -402,18 +402,20 @@ Status badges for many of my projects: builds, dependencies, npm stats
 
 **[next-update](https://github.com/bahmutov/next-update)**
 
-[![NPM][next-update-icon]][next-update-url]
+[![NPM][next-update-icon] ][next-update-url]
 
-[![Build][next-update-ci-image]][next-update-ci-url]
-[![dependencies][next-update-deps-image]][next-update-deps-url]
-[![devDependencies](https://david-dm.org/bahmutov/next-update/dev-status.png)](https://david-dm.org/bahmutov/next-update#info=devDependencies)
+[![Build status][next-update-ci-image] ][next-update-ci-url]
+[![dependencies][next-update-dependencies-image] ][next-update-dependencies-url]
+[![devdependencies][next-update-devdependencies-image] ][next-update-devdependencies-url]
 
 [next-update-icon]: https://nodei.co/npm/next-update.png?downloads=true
 [next-update-url]: https://npmjs.org/package/next-update
-[next-update-ci-image]: https://www.codeship.io/projects/3887dc60-007b-0131-a7ef-76c3dfc91daa/status
-[next-update-ci-url]: https://www.codeship.io/projects/3887dc60-007b-0131-a7ef-76c3dfc91daa/status
-[next-update-deps-image]: https://david-dm.org/bahmutov/next-update.png
-[next-update-deps-url]: https://david-dm.org/bahmutov/next-update
+[next-update-ci-image]: https://travis-ci.org/bahmutov/next-update.png?branch=master
+[next-update-ci-url]: https://travis-ci.org/bahmutov/next-update
+[next-update-dependencies-image]: https://david-dm.org/bahmutov/next-update.png
+[next-update-dependencies-url]: https://david-dm.org/bahmutov/next-update
+[next-update-devdependencies-image]: https://david-dm.org/bahmutov/next-update/dev-status.png
+[next-update-devdependencies-url]: https://david-dm.org/bahmutov/next-update#info=devDependencies
 
 **[npm-utils](https://github.com/bahmutov/npm-utils)**
 
