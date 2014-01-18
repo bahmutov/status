@@ -287,6 +287,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [ggit-deps-image]: https://david-dm.org/bahmutov/ggit.png
 [ggit-deps-url]: https://david-dm.org/bahmutov/ggit
 
+**[gulp-dotdot](https://github.com/bahmutov/gulp-dotdot)**
+
+[![NPM][gulp-dotdot-icon] ][gulp-dotdot-url]
+
+[![Build status][gulp-dotdot-ci-image] ][gulp-dotdot-ci-url]
+[![dependencies][gulp-dotdot-dependencies-image] ][gulp-dotdot-dependencies-url]
+[![devdependencies][gulp-dotdot-devdependencies-image] ][gulp-dotdot-devdependencies-url]
+
+[gulp-dotdot-icon]: https://nodei.co/npm/gulp-dotdot.png?downloads=true
+[gulp-dotdot-url]: https://npmjs.org/package/gulp-dotdot
+[gulp-dotdot-ci-image]: https://travis-ci.org/bahmutov/gulp-dotdot.png?branch=master
+[gulp-dotdot-ci-url]: https://travis-ci.org/bahmutov/gulp-dotdot
+[gulp-dotdot-dependencies-image]: https://david-dm.org/bahmutov/gulp-dotdot.png
+[gulp-dotdot-dependencies-url]: https://david-dm.org/bahmutov/gulp-dotdot
+[gulp-dotdot-devdependencies-image]: https://david-dm.org/bahmutov/gulp-dotdot/dev-status.png
+[gulp-dotdot-devdependencies-url]: https://david-dm.org/bahmutov/gulp-dotdot#info=devDependencies
+
 **[jshint-solid](https://github.com/bahmutov/jshint-solid)**
 
 [![NPM][jshint-solid-icon]][jshint-solid-url]
