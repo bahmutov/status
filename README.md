@@ -126,6 +126,16 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [connect-slow-devdependencies-image]: https://david-dm.org/bahmutov/connect-slow/dev-status.png
 [connect-slow-devdependencies-url]: https://david-dm.org/bahmutov/connect-slow#info=devDependencies
 
+**[console.json](https://github.com/bahmutov/console.json)**
+
+[![NPM][console.json-icon] ][console.json-url]
+
+[![Build status][console.json-ci-image] ][console.json-ci-url]
+
+[console.json-icon]: https://nodei.co/npm/console.json.png?downloads=true
+[console.json-url]: https://npmjs.org/package/console.json
+[console.json-ci-image]: https://travis-ci.org/bahmutov/console.json.png?branch=master
+[console.json-ci-url]: https://travis-ci.org/bahmutov/console.json
 
 **[deps-ok](https://github.com/bahmutov/deps-ok)**
 
