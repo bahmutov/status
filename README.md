@@ -2,6 +2,7 @@
 
 Status badges for many of my projects: builds, dependencies, npm stats
 
+![Gleb Bahmutov](https://secure.gravatar.com/avatar/4ca757a644d8fa2518f6308c6dfe6b24?s=64)
 [![NPM downloads total last month][bahmutov-npm-downloads-icon]][bahmutov-npm-downloads-url]
 
 [bahmutov-npm-downloads-icon]: http://proud.herokuapp.com/bahmutov/png
