@@ -8,6 +8,26 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [bahmutov-npm-downloads-icon]: http://proud.herokuapp.com/bahmutov/png
 [bahmutov-npm-downloads-url]: http://proud.herokuapp.com/bahmutov/json
 
+**[available-versions](https://github.com/bahmutov/available-versions)**
+
+[![NPM][available-versions-icon] ][available-versions-url]
+
+[![Build status][available-versions-ci-image] ][available-versions-ci-url]
+[![Coverage Status][available-versions-coverage-image]][available-versions-coverage-url]
+[![dependencies][available-versions-dependencies-image] ][available-versions-dependencies-url]
+[![devdependencies][available-versions-devdependencies-image] ][available-versions-devdependencies-url]
+
+[available-versions-icon]: https://nodei.co/npm/available-versions.png?downloads=true
+[available-versions-url]: https://npmjs.org/package/available-versions
+[available-versions-ci-image]: https://travis-ci.org/bahmutov/available-versions.png?branch=master
+[available-versions-ci-url]: https://travis-ci.org/bahmutov/available-versions
+[available-versions-coverage-image]: https://coveralls.io/repos/bahmutov/available-versions/badge.png
+[available-versions-coverage-url]: https://coveralls.io/r/bahmutov/available-versions
+[available-versions-dependencies-image]: https://david-dm.org/bahmutov/available-versions.png
+[available-versions-dependencies-url]: https://david-dm.org/bahmutov/available-versions
+[available-versions-devdependencies-image]: https://david-dm.org/bahmutov/available-versions/dev-status.png
+[available-versions-devdependencies-url]: https://david-dm.org/bahmutov/available-versions#info=devDependencies
+
 **[aged](https://github.com/bahmutov/aged)**
 
 [![NPM][aged-icon] ][aged-url]
