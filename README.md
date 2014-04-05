@@ -198,6 +198,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [console.table-devdependencies-image]: https://david-dm.org/bahmutov/console.table/dev-status.png
 [console.table-devdependencies-url]: https://david-dm.org/bahmutov/console.table#info=devDependencies
 
+**[d3-helpers](https://github.com/bahmutov/d3-helpers)**
+
+[![NPM d3-helpers][d3-helpers-icon]][d3-helpers-url]
+
+[![Build status][d3-helpers-ci-image]][d3-helpers-ci-url]
+[![dependencies][d3-helpers-dependencies-image]][d3-helpers-dependencies-url]
+[![devdependencies][d3-helpers-devdependencies-image]][d3-helpers-devdependencies-url]
+
+[d3-helpers-icon]: https://nodei.co/npm/d3-helpers.png?downloads=true
+[d3-helpers-url]: https://npmjs.org/package/d3-helpers
+[d3-helpers-ci-image]: https://travis-ci.org/bahmutov/d3-helpers.png?branch=master
+[d3-helpers-ci-url]: https://travis-ci.org/bahmutov/d3-helpers
+[d3-helpers-dependencies-image]: https://david-dm.org/bahmutov/d3-helpers.png
+[d3-helpers-dependencies-url]: https://david-dm.org/bahmutov/d3-helpers
+[d3-helpers-devdependencies-image]: https://david-dm.org/bahmutov/d3-helpers/dev-status.png
+[d3-helpers-devdependencies-url]: https://david-dm.org/bahmutov/d3-helpers#info=devDependencies
+
 **[deps-ok](https://github.com/bahmutov/deps-ok)**
 
 [![NPM][deps-ok-icon]][deps-ok-url]
