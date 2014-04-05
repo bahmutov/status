@@ -181,6 +181,23 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [console.html-devdependencies-image]: https://david-dm.org/bahmutov/console.html/dev-status.png
 [console.html-devdependencies-url]: https://david-dm.org/bahmutov/console.html#info=devDependencies
 
+**[console.table](https://github.com/bahmutov/console.table)**
+
+[![NPM][console.table-icon] ][console.table-url]
+
+[![Build status][console.table-ci-image] ][console.table-ci-url]
+[![dependencies][console.table-dependencies-image] ][console.table-dependencies-url]
+[![devdependencies][console.table-devdependencies-image] ][console.table-devdependencies-url]
+
+[console.table-icon]: https://nodei.co/npm/console.table.png?downloads=true
+[console.table-url]: https://npmjs.org/package/console.table
+[console.table-ci-image]: https://travis-ci.org/bahmutov/console.table.png?branch=master
+[console.table-ci-url]: https://travis-ci.org/bahmutov/console.table
+[console.table-dependencies-image]: https://david-dm.org/bahmutov/console.table.png
+[console.table-dependencies-url]: https://david-dm.org/bahmutov/console.table
+[console.table-devdependencies-image]: https://david-dm.org/bahmutov/console.table/dev-status.png
+[console.table-devdependencies-url]: https://david-dm.org/bahmutov/console.table#info=devDependencies
+
 **[deps-ok](https://github.com/bahmutov/deps-ok)**
 
 [![NPM][deps-ok-icon]][deps-ok-url]
