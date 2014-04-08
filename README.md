@@ -264,6 +264,26 @@ Status badges for many of my projects: builds, dependencies, npm stats
 [es6-generators-example-devdependencies-image]: https://david-dm.org/bahmutov/es6-generators-example/dev-status.png
 [es6-generators-example-devdependencies-url]: https://david-dm.org/bahmutov/es6-generators-example#info=devDependencies
 
+**[functional-pipeline](https://github.com/bahmutov/functional-pipeline)**
+
+[![NPM][functional-pipeline-icon] ][functional-pipeline-url]
+
+[![Build status][functional-pipeline-ci-image] ][functional-pipeline-ci-url]
+[![Coverage Status][functional-pipeline-coverage-image]][functional-pipeline-coverage-url]
+[![dependencies][functional-pipeline-dependencies-image] ][functional-pipeline-dependencies-url]
+[![devdependencies][functional-pipeline-devdependencies-image] ][functional-pipeline-devdependencies-url]
+
+[functional-pipeline-icon]: https://nodei.co/npm/functional-pipeline.png?downloads=true
+[functional-pipeline-url]: https://npmjs.org/package/functional-pipeline
+[functional-pipeline-ci-image]: https://travis-ci.org/bahmutov/functional-pipeline.png?branch=master
+[functional-pipeline-ci-url]: https://travis-ci.org/bahmutov/functional-pipeline
+[functional-pipeline-coverage-image]: https://coveralls.io/repos/bahmutov/functional-pipeline/badge.png
+[functional-pipeline-coverage-url]: https://coveralls.io/r/bahmutov/functional-pipeline
+[functional-pipeline-dependencies-image]: https://david-dm.org/bahmutov/functional-pipeline.png
+[functional-pipeline-dependencies-url]: https://david-dm.org/bahmutov/functional-pipeline
+[functional-pipeline-devdependencies-image]: https://david-dm.org/bahmutov/functional-pipeline/dev-status.png
+[functional-pipeline-devdependencies-url]: https://david-dm.org/bahmutov/functional-pipeline#info=devDependencies
+
 **[grunt-deps-ok](https://github.com/bahmutov/grunt-deps-ok)**
 
 [![NPM][grunt-deps-ok-icon]][grunt-deps-ok-url]
